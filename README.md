@@ -16,6 +16,8 @@
 
 - ⚡ **I am a Artist 🎨**
 
+<img src="https://raw.githubusercontent.com/necm1/necm1/output/snake.svg" alt="Snake animation" />
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
