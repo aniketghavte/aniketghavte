@@ -15,6 +15,7 @@
 - 📫 How to reach me **aniketghavte@gmail.com**
 
 - ⚡ **I am a Artist 🎨**
+- **Am too lazy to write all this 😫**
 
 <img src="https://raw.githubusercontent.com/necm1/necm1/output/snake.svg" alt="Snake animation" />
 
