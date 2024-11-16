@@ -6,7 +6,7 @@
 
 - 🔭 I’m Building **Mars 🌠**
 
-- 👨‍💻 All of my projects are available at [aniketghavte.me](https://aniketghavte.me/)
+- 👨‍💻 All of my projects are available at [aniketghavte.xyz](https://aniketghavte.xyz/)
 
 - 📝 I regularly write articles on [https://medium.com/@aniketghavte](https://medium.com/@aniketghavte)
 
