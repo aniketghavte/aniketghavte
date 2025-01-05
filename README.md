@@ -4,24 +4,20 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketghavte&label=Profile%20views&color=0e75b6&style=flat" alt="aniketghavte" /> </p>
 
-- 🔭 I’m Building **Mars 🌠**
+- I’m Building **Mars **
 
-- 👨‍💻 All of my projects are available at [aniketghavte.xyz](https://aniketghavte.xyz/)
+- get all about me at [aniketghavte.xyz](https://aniketghavte.xyz/)
 
-- 📝 I regularly write articles on [https://medium.com/@aniketghavte](https://medium.com/@aniketghavte)
+- I don't regularly write articles but some are on [https://medium.com/@aniketghavte](https://medium.com/@aniketghavte)
 
-- 💬 Ask me about **JavaScript, TypeScript, React.js, Next.js,**
+- Ask me about **JavaScript, TypeScript, React.js, Next.js,**
 
-- 📫 How to reach me **aniketghavte@gmail.com**
+- How to reach me **aniketghavte@gmail.com**
 
-- ⚡ **I am a Artist 🎨**
-- **Am too lazy to write all this 😫**
+- **I am a Artist 🎨**
 
 <img src="https://raw.githubusercontent.com/necm1/necm1/output/snake.svg" alt="Snake animation" />
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
