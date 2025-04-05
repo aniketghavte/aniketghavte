@@ -1,6 +1,6 @@
 I am Aniket Ghavte.
 
-I build products that matter. **My work speaks through my code - JavaScript, TypeScript, React.js, Next.js - the languages through which I shape digital experiences.**
+I build products that matter. **My work speaks through my code - TypeScript, Next.js, Node.js, Python, Machine Learning, AI - the languages through which I shape digital experiences.**
 
 Currently focused on building Mars.
 
