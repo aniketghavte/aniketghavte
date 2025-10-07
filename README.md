@@ -17,6 +17,7 @@ Find me at:
 
 Connect:
 - linkedin.com/in/aniketghavte
-- leetcode.com/aniket_ghavte (though I identify more as a developer than a problem solver)
+- leetcode.com/aniket_ghavte 
 
 Software Developer | Product Designer | Builder of Tomorrow
+
