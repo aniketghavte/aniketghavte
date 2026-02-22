@@ -1,23 +1,26 @@
-I am Aniket Ghavte.
+# Hi there, I'm Aniket! 👋
 
-I build products that matter. **My work speaks through my code - TypeScript, Next.js, Node.js, Python, Machine Learning, AI - the languages through which I shape digital experiences.**
+I'm an indie developer and software engineer based in Pune, India. I specialize in building robust full-stack applications and diving deep into blockchain architecture, particularly within the Avalanche ecosystem. With a B.E. in Computer Science under my belt, I am currently **open to new work opportunities**.
 
-Currently focused on building Mars.
+### What I'm currently working on
+- **Aura:** Building an AI native browser.
 
-My interests span physics, science, space, and robotics - domains where innovation meets exploration. I believe technology is the only reality.
+### Experience Highlights
+- **Founding Software Developer @ Bango:** Built a prediction market platform on the Avalanche network.
+- **Founding Software Developer @ DQNORG:** Architected a comprehensive points system for an active NFT community.
+- **Full-Stack Software Developer Intern @ Pratichakra:** Contributed to core full-stack web development initiatives.
 
-**I am known for delivering exceptional work.** Each project is approached with both technical precision and creative vision.
+### Tech Stack & Tools
+- **Languages:** JavaScript/TypeScript, Solidity
+- **Frontend & Mobile:** Next.js, React Native
+- **Web3 & Blockchain:** Smart Contract Development, Avalanche Ecosystem
 
-I am both a developer and an artist, finding beauty in elegant solutions and clean architecture.
+### Outside of coding, you might find me...
+- Reading Stoic philosophy.
+- Planning my next motorcycle ride or a trip up to the Spiti circuit.
+- Exploring the physics and mechanics behind aerospace engineering. 
 
-Find me at:
-- aniketghavte.xyz
-- medium.com/@aniketghavte
-- aniketghavte@gmail.com
-
-Connect:
-- linkedin.com/in/aniketghavte
-- leetcode.com/aniket_ghavte 
-
-Software Developer | Product Designer | Builder of Tomorrow
-
+### Let's Connect!
+- **LinkedIn:** [linkedin.com/in/aniketghavte](https://www.linkedin.com/in/aniketghavte/)
+- **Twitter/X:** [@aniket_ghavte](https://x.com/aniket_ghavte)
+- **Portfolio:** [aniketghavte.xyz](https://aniketghavte.xyz)
