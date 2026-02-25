@@ -17,10 +17,11 @@ I'm an indie developer and software engineer based in Pune, India. I specialize 
 
 ### Outside of coding, you might find me...
 - Reading Stoic philosophy.
-- Planning my next motorcycle ride or a trip up to the Spiti circuit.
+- Planning my next motorcycle ride
 - Exploring the physics and mechanics behind aerospace engineering. 
 
 ### Let's Connect!
 - **LinkedIn:** [linkedin.com/in/aniketghavte](https://www.linkedin.com/in/aniketghavte/)
 - **Twitter/X:** [@aniket_ghavte](https://x.com/aniket_ghavte)
 - **Portfolio:** [aniketghavte.xyz](https://aniketghavte.xyz)
+
